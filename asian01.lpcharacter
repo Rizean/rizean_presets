@@ -1,0 +1,73 @@
+// Information
+INFO Is_Male: 100% false
+INFO Interested_In_Men: 100% true
+INFO Interested_In_Women: 100% true
+INFO Interested_In_Transgender: 100% false
+INFO First_Name: 100% Alexandra
+INFO Last_Name: 100% E
+INFO Race: 100% Daz
+INFO Genital: 100% Vagina
+
+// Morphs
+MORPH Genesis8Female__CTRLSYFAKanyaFace: 100% 0.578201
+MORPH Genesis8Female__CTRLSYFAAoiFace: 100% 0.19125
+MORPH Genesis8Female__sfd_tg_face03: 100% 0.825953
+MORPH Genesis8Female__sfd_tg_breastsizer: 100% 1.0
+MORPH Genesis8Female__PHMFaceYoung: 100% 0.500626
+MORPH Genesis8Female__PBMNipplesLarge: 100% 0.682302
+MORPH Genesis8Female__PBMGlutesSize: 100% 0.025971
+MORPH Genesis8Female__PBMBreastsShape03: 100% 0.151555
+MORPH Genesis8Female__PBMBreastsPerkSide: 100% 0.003632
+MORPH Genesis8Female__FBMThin: 100% 0.653743
+MORPH Genesis8FemaleEyelashes__CTRLSYFAKanyaFace: 100% 0.578201
+MORPH Genesis8FemaleEyelashes__CTRLSYFAAoiFace: 100% 0.19125
+MORPH Genesis8FemaleEyelashes__sfd_tg_face03: 100% 0.825953
+MORPH Genesis8FemaleEyelashes__PHMFaceYoung: 100% 0.500626
+SCALE X: 100% 1.0
+SCALE Y: 100% 1.0
+SCALE Z: 100% 1.0
+
+//Hair
+HAIR Hairstyle: 100% SilvieHair
+HAIR Hair_Thickness: 100% 1.508145
+HAIR Hair_Color_R: 100% 0.026
+HAIR Hair_Color_G: 100% 0.009
+HAIR Hair_Color_B: 100% 0.0
+HAIR Hair_Color_A: 100% 0.85
+
+HAIR Brow_Color_R: 100% 0.0
+HAIR Brow_Color_G: 100% 0.0
+HAIR Brow_Color_B: 100% 0.0
+HAIR Brow_Color_A: 100% 1.0
+
+// Skin
+SKIN Eye_Color_R: 100% 0.02
+SKIN Eye_Color_G: 100% 0.0
+SKIN Eye_Color_B: 100% 0.0
+SKIN Eye_Color_A: 100% 0.8
+SKIN Face_Texture: 100% Xia
+SKIN Face_Overlay: 100% NoHair
+SKIN Torso_Texture: 100% Bridget8TorsoD_1002
+SKIN Torso_Overlay: 100% NoHair
+SKIN Arms_Texture: 100% Bridget8ArmsD_1004
+SKIN Arms_Overlay: 100% NoHair
+SKIN Legs_Texture: 100% Bridget8LegsD_1003
+SKIN Legs_Overlay: 100% NoHair
+SKIN Skin_Color_R: 100% 0.83
+SKIN Skin_Color_G: 100% 0.58
+SKIN Skin_Color_B: 100% 0.43
+SKIN Skin_Color_A: 100% 1.0
+SKIN BHairColor_R: 100% 0.0039
+SKIN BHairColor_G: 100% 0.00135
+SKIN BHairColor_B: 100% 0.0
+SKIN BHairColor_A: 100% 0.85
+SKIN Skin_Roughness: 100% 0.694546
+SKIN Skin_Oil: 100% 0.315936
+SKIN Skin_Fresnel: 100% 0.884732
+SKIN Skin_Age: 100% 0.0
+SKIN Skin_Sagging: 100% 0.0
+SKIN Muscle_Tone: 100% 0.0
+SKIN BHairThickness: 100% 0.054633
+SKIN BHairstyle: 100% Pubes07
+SKIN Tan_Line: 100% 0_SSTanLinesG8F
+SKIN Tan_Strength: 100% 0.5

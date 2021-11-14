@@ -1,0 +1,76 @@
+// Information
+INFO Is_Male: 100% false
+INFO Interested_In_Men: 100% true
+INFO Interested_In_Women: 100% false
+INFO Interested_In_Transgender: 100% false
+INFO First_Name: 100% Karyn
+INFO Last_Name: 100% F
+INFO Race: 100% Daz
+INFO Genital: 100% Vagina
+
+// Morphs
+MORPH Genesis8Female__CTRLSYFASeoYeonFace: 100% 0.12674
+MORPH Genesis8Female__CTRLSYFAKanyaFace: 100% 0.792807
+MORPH Genesis8Female__sfd_tg_tgbody05a: 100% 0.577783
+MORPH Genesis8Female__sfd_tg_face01: 100% 0.585269
+MORPH Genesis8Female__sfd_tg_breastsizer: 100% 1.0
+MORPH Genesis8Female__EJEthnicsAsianBody: 100% 0.914356
+MORPH Genesis8Female__PHMFaceYoung: 100% 0.821558
+MORPH Genesis8Female__PBMNipplesLarge: 100% 0.021332
+MORPH Genesis8Female__PBMGlutesSize: 100% 0.094852
+MORPH Genesis8Female__PBMBreastsUpwardSlope: 100% 0.947752
+MORPH Genesis8Female__PBMBreastsShape05: 100% 0.226386
+MORPH Genesis8Female__PBMAreolaePerk: 100% 0.739402
+MORPH Genesis8Female__FBMVoluptuous: 100% 0.697958
+MORPH Genesis8FemaleEyelashes__CTRLSYFASeoYeonFace: 100% 0.12674
+MORPH Genesis8FemaleEyelashes__CTRLSYFAKanyaFace: 100% 0.792807
+MORPH Genesis8FemaleEyelashes__sfd_tg_face01: 100% 0.585269
+MORPH Genesis8FemaleEyelashes__PHMFaceYoung: 100% 0.821558
+SCALE X: 100% 1.0
+SCALE Y: 100% 1.0
+SCALE Z: 100% 1.0
+
+//Hair
+HAIR Hairstyle: 100% KaylessaHair
+HAIR Hair_Thickness: 100% 1.426478
+HAIR Hair_Color_R: 100% 0.005
+HAIR Hair_Color_G: 100% 0.001
+HAIR Hair_Color_B: 100% 0.0
+HAIR Hair_Color_A: 100% 0.85
+
+HAIR Brow_Color_R: 100% 0.0
+HAIR Brow_Color_G: 100% 0.0
+HAIR Brow_Color_B: 100% 0.0
+HAIR Brow_Color_A: 100% 1.0
+
+// Skin
+SKIN Eye_Color_R: 100% 0.02
+SKIN Eye_Color_G: 100% 0.0
+SKIN Eye_Color_B: 100% 0.0
+SKIN Eye_Color_A: 100% 0.8
+SKIN Face_Texture: 100% Mylou
+SKIN Face_Overlay: 100% NoHair
+SKIN Torso_Texture: 100% Bridget8TorsoD_1002
+SKIN Torso_Overlay: 100% NoHair
+SKIN Arms_Texture: 100% Bridget8ArmsD_1004
+SKIN Arms_Overlay: 100% NoHair
+SKIN Legs_Texture: 100% Bridget8LegsD_1003
+SKIN Legs_Overlay: 100% NoHair
+SKIN Skin_Color_R: 100% 0.83
+SKIN Skin_Color_G: 100% 0.58
+SKIN Skin_Color_B: 100% 0.43
+SKIN Skin_Color_A: 100% 1.0
+SKIN BHairColor_R: 100% 0.00075
+SKIN BHairColor_G: 100% 0.00015
+SKIN BHairColor_B: 100% 0.0
+SKIN BHairColor_A: 100% 0.85
+SKIN Skin_Roughness: 100% 0.315737
+SKIN Skin_Oil: 100% 0.292833
+SKIN Skin_Fresnel: 100% 0.275395
+SKIN Skin_Age: 100% 0.0
+SKIN Skin_Sagging: 100% 0.0
+SKIN Muscle_Tone: 100% 0.0
+SKIN BHairThickness: 100% 0.688314
+SKIN BHairstyle: 100% NoHair
+SKIN Tan_Line: 100% 0_SSTanLinesG8F
+SKIN Tan_Strength: 100% 0.5

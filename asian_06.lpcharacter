@@ -1,0 +1,121 @@
+// Information
+INFO Is_Male: 100% false
+INFO Interested_In_Men: 100% true
+INFO Interested_In_Women: 100% false
+INFO Interested_In_Transgender: 100% false
+INFO First_Name: 100% Karyn
+INFO Last_Name: 100% F
+INFO Race: 100% Daz
+INFO Genital: 100% Vagina
+
+// Morphs
+MORPH Genesis8Female__CTRLSYFAJuanFace: 100% 0.247458
+MORPH Genesis8Female__CTRLFitness: 100% 0.482168
+MORPH Genesis8Female__Eyes Smaller: 100% 0.60745
+MORPH Genesis8Female__Eyelid Size: 100% 0.137552
+MORPH Genesis8Female__FBMSYVampire: 100% 0.322679
+MORPH Genesis8Female__EJEthnicsWhiteBody: 100% 0.389262
+MORPH Genesis8Female__EJEthnicsAsianNose: 100% 0.267918
+MORPH Genesis8Female__EJEthnicsAsianHead: 100% 1.0
+MORPH Genesis8Female__EJEthnicsAsianBody: 100% 1.0
+MORPH Genesis8Female__RFMC_Cheekbones Depth: 100% 1.0
+MORPH Genesis8Female__RFMC_Brows Weaker: 100% 0.493056
+MORPH Genesis8Female__RFMC_Brows Rotates: 100% 0.286713
+MORPH Genesis8Female__RFMC_Brows Heights: 100% 0.247368
+MORPH Genesis8Female__RFMC_Brows Depth 01: 100% 0.298182
+MORPH Genesis8Female__RFMC_Brows Arch 08: 100% 0.148862
+MORPH Genesis8Female__RFMC_Brows Arch 07: 100% 0.070053
+MORPH Genesis8Female__RFMC_Brows Arch 06: 100% 0.474606
+MORPH Genesis8Female__RFMC_Brows Arch 04: 100% 0.117338
+MORPH Genesis8Female__Lips Thin (Alt): 100% 1.0
+MORPH Genesis8Female__Jaw Width: 100% 0.009123
+MORPH Genesis8Female__Eyes Slant In: 100% 0.096264
+MORPH Genesis8Female__Eyes Height A: 100% 0.007331
+MORPH Genesis8Female__Eyes Distance: 100% 0.280059
+MORPH Genesis8Female__Cheeks Bones Height: 100% 1.0
+MORPH Genesis8Female__Brows Arch: 100% 0.263598
+MORPH Genesis8Female__PBMNipples: 100% 0.338549
+MORPH Genesis8Female__PHMNoseWidth: 100% 0.175385
+MORPH Genesis8Female__PHMNoseTipHeight: 100% 0.405405
+MORPH Genesis8Female__PHMNoseHeight: 100% 0.211599
+MORPH Genesis8Female__PHMMouthWidth: 100% 1.0
+MORPH Genesis8Female__PHMMouthHeight: 100% 0.431118
+MORPH Genesis8Female__PHMLipsThin: 100% 0.569343
+MORPH Genesis8Female__PHMLipLowerSize: 100% 0.288493
+MORPH Genesis8Female__PHMEyesHeight: 100% 1.0
+MORPH Genesis8Female__PHMEyesAngledOuter: 100% 1.0
+MORPH Genesis8Female__PHMEyesAngledInner: 100% 1.0
+MORPH Genesis8Female__PHMEyesAngled: 100% 0.581679
+MORPH Genesis8Female__PHMCheeksSink: 100% 0.23773
+MORPH Genesis8Female__PHMCheekbonesThin: 100% 1.0
+MORPH Genesis8Female__PHMBrowThinHD: 100% 1.0
+MORPH Genesis8Female__MCMCheekbonesSmall: 100% 0.088235
+MORPH Genesis8Female__PBMNipplesSize: 100% 0.366044
+MORPH Genesis8Female__PBMNipplesLarge: 100% 0.392283
+MORPH Genesis8Female__PBMNipplesDiameter: 100% 0.21815
+MORPH Genesis8Female__PBMNipplesDepth: 100% 0.219156
+MORPH Genesis8Female__PBMGlutesSize: 100% 0.204545
+MORPH Genesis8Female__PBMBreastsUpwardSlope: 100% 0.55773
+MORPH Genesis8Female__PBMBreastsSmall: 100% 1.0
+MORPH Genesis8Female__PBMAreolaeDiameter: 100% 1.0
+MORPH Genesis8Female__FBMBodyTone: 100% 0.44843
+MORPH Genesis8Female__FBMVoluptuous: 100% 0.204545
+MORPH Genesis8FemaleEyelashes__CTRLSYFAJuanFace: 100% 0.247458
+MORPH Genesis8FemaleEyelashes__Eyes Smaller: 100% 0.60745
+MORPH Genesis8FemaleEyelashes__Eyelid Size: 100% 0.137552
+MORPH Genesis8FemaleEyelashes__EJEthnicsAsianHead: 100% 1.0
+MORPH Genesis8FemaleEyelashes__Eyes Slant In: 100% 0.096264
+MORPH Genesis8FemaleEyelashes__Eyes Height A: 100% 0.007331
+MORPH Genesis8FemaleEyelashes__Eyes Distance: 100% 0.280059
+MORPH Genesis8FemaleEyelashes__PHMEyesHeight: 100% 1.0
+MORPH Genesis8FemaleEyelashes__PHMEyesAngledOuter: 100% 1.0
+MORPH Genesis8FemaleEyelashes__PHMEyesAngledInner: 100% 1.0
+MORPH Genesis8FemaleEyelashes__PHMEyesAngled: 100% 0.581679
+SCALE X: 100% 1.0
+SCALE Y: 100% 1.0
+SCALE Z: 100% 1.0
+
+//Hair
+HAIR Hairstyle: 100% BelleHair
+HAIR Hair_Thickness: 100% 2.0
+HAIR Hair_Color_R: 100% 0.015
+HAIR Hair_Color_G: 100% 0.003
+HAIR Hair_Color_B: 100% 0.0
+HAIR Hair_Color_A: 100% 0.85
+
+HAIR Brow_Color_R: 100% 0.0
+HAIR Brow_Color_G: 100% 0.0
+HAIR Brow_Color_B: 100% 0.0
+HAIR Brow_Color_A: 100% 1.0
+
+// Skin
+SKIN Eye_Color_R: 100% 0.08
+SKIN Eye_Color_G: 100% 0.02
+SKIN Eye_Color_B: 100% 0.0
+SKIN Eye_Color_A: 100% 0.8
+SKIN Face_Texture: 100% Bridget8Face01D_1001
+SKIN Face_Overlay: 100% /Modules/vin_Base/Presets/celebs/YifeiL_face.jpg
+SKIN Torso_Texture: 100% Bridget8TorsoD_1002
+SKIN Torso_Overlay: 100% NoHair
+SKIN Arms_Texture: 100% Bridget8ArmsD_1004
+SKIN Arms_Overlay: 100% NoHair
+SKIN Legs_Texture: 100% Bridget8LegsD_1003
+SKIN Legs_Overlay: 100% NoHair
+SKIN Skin_Color_R: 100% 0.73
+SKIN Skin_Color_G: 100% 0.48
+SKIN Skin_Color_B: 100% 0.33
+SKIN Skin_Color_A: 100% 1.0
+SKIN BHairColor_R: 100% 0.00225
+SKIN BHairColor_G: 100% 0.00045
+SKIN BHairColor_B: 100% 0.0
+SKIN BHairColor_A: 100% 0.85
+SKIN Skin_Roughness: 100% 0.598321
+SKIN Skin_Oil: 100% 0.271078
+SKIN Skin_Fresnel: 100% 0.312296
+SKIN Skin_Age: 100% 0.106113
+SKIN Skin_Sagging: 100% 0.0
+SKIN Muscle_Tone: 100% 0.0
+SKIN BHairThickness: 100% 0.723853
+SKIN BHairstyle: 100% NoHair
+SKIN Tan_Line: 100% 0_SSTanLinesG8F
+SKIN Tan_Strength: 100% 0.5
